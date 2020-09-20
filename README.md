@@ -10,11 +10,16 @@ Our idea is to have a virtual play-space (aka, a Sandbox), which contains a vari
 Alongside that, every person (and every child) works differently. Some of us a visual learners, while others are not. This solution would be intended to assist in helping students during COVID times that learn best from visual and/or physical learning styles. 
 
 **Examples of furthering the idea and project:**
-a. Build a tower 2 meters tall. The child will have to figure out which objects in the play space they need to put together to complete the task. It may use flat, round, or oddly shaped objects…and gravity exists. 
-b. Sorting. The child is given a large bucket of items. The task will be to sort them into various categories (aka, physically place objects into different buckets). [by color, number, type, etc.]
-c. Math. Presented with various math problems, involving 3D objects. Example: 3 trees, plus 5 trees, equals a forest…how many trees are in the forest? 
-d. Quizzes. Example: The child watches an educational video on a topic. Then, to quiz their knowledge, each quiz question has 4 different 3D models. They can "grab" their answer. Specifically: Which animal was "Wilbur" in Charlotte's Web? Answers: Pig, Spider, Cow, Goose.
-e. [COMPLEX] - Tracing/spelling. The child is learning how to write. They are given a "pencil" and presented with a picture of the letter/word they are learning to write. Their task is to write the letter/word repeatedly until the in-simulation handwriting detection (machine learning) recognizes the letter or word they are trying to write.  
+A. Build a tower 2 meters tall. The child will have to figure out which objects in the play space they need to put together to complete the task. It may use flat, round, or oddly shaped objects…and gravity exists.
+
+B. Sorting. The child is given a large bucket of items. The task will be to sort them into various categories (aka, physically place objects into different buckets). [by color, number, type, etc.]
+
+C. Math. Presented with various math problems, involving 3D objects. Example: 3 trees, plus 5 trees, equals a forest…how many trees are in the forest? 
+
+D. Quizzes. Example: The child watches an educational video on a topic. Then, to quiz their knowledge, each quiz question has 4 different 3D models. They can "grab" their answer. Specifically: Which animal was "Wilbur" in Charlotte's Web? Answers: Pig, Spider, Cow, Goose.
+
+E. [COMPLEX] - Tracing/spelling. The child is learning how to write. They are given a "pencil" and presented with a picture of the letter/word they are learning to write. Their task is to write the letter/word repeatedly until the in-simulation handwriting detection (machine learning) recognizes the letter or word they are trying to write.  
+
 F. [COMPLEX] - Typing practice. Essentially make Typeracer but in VR.
 
 **Disclaimer, we are acting on the assumption that educational institutions would have VR systems (such as the Oculus Quest) to loan out to students.**
