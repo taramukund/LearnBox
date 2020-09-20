@@ -10,6 +10,7 @@ Our idea is to have a virtual play-space (aka, a Sandbox), which contains a vari
 Alongside that, every person (and every child) works differently. Some of us a visual learners, while others are not. This solution would be intended to assist in helping students during COVID times that learn best from visual and/or physical learning styles. 
 
 **Examples of furthering the idea and project:**
+
 A. Build a tower 2 meters tall. The child will have to figure out which objects in the play space they need to put together to complete the task. It may use flat, round, or oddly shaped objects…and gravity exists.
 
 B. Sorting. The child is given a large bucket of items. The task will be to sort them into various categories (aka, physically place objects into different buckets). [by color, number, type, etc.]
